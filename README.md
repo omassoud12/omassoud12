@@ -25,8 +25,6 @@ export const omar = {
 
 ## Stack
 
-## Stack
-
 - **Frontend:** React · JavaScript
 - **Backend:** Node.js
 - **Data and auth:** Supabase (Postgres, Auth, Storage)
@@ -34,4 +32,5 @@ export const omar = {
 ## Contact
 
 - Email: omarmassoud20012@gmail.com
+- LinkedIn: [omar-massoud](https://www.linkedin.com/in/omar-massoud-81622b20a)
 - Company: [ultrascalingsolution.com](https://ultrascalingsolution.com)
