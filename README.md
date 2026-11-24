@@ -25,9 +25,11 @@ export const omar = {
 
 ## Stack
 
-**Frontend:** React · JavaScript
-**Backend:** Node.js
-**Data and auth:** Supabase (Postgres, Auth, Storage)
+## Stack
+
+- **Frontend:** React · JavaScript
+- **Backend:** Node.js
+- **Data and auth:** Supabase (Postgres, Auth, Storage)
 
 ## Contact
 
